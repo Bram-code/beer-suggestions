@@ -1,2 +1,2 @@
 # beer-suggestions
-It suggests beer based what you like to taste
+It suggests beer based on what you like to taste
